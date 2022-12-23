@@ -15,7 +15,7 @@
    - [Neroka in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Ivyliam-gadgets in Nairobi,Kenya ](https://shop.ivyliam.com/)
   
-  #Global
+  # Global
   
 # Certifications.
 
