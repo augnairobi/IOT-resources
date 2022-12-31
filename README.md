@@ -14,12 +14,12 @@
    - [ KTechnics in Nairobi,Kenya](https://www.ktechnics.com/)
    - [Ivyliam-gadgets in Nairobi,Kenya - Raspberry reseller](https://shop.ivyliam.com/)
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
-   - 
+   
    
   
   - Global
   - [ Arduino ](https://store.arduino.cc/)
-  - 
+  
   
 # Certifications.
 
