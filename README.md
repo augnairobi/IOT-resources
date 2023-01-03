@@ -1,8 +1,8 @@
 # IOT-resources
-- Learning resources
-- Shops
-- Certifications
-- Misc
+- [Learning resources](#global)
+- [Shops](#shops)
+- [Certifications](#certifications)
+- [Misc](#misc)
 
 
 # Learning resources.
