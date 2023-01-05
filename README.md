@@ -43,3 +43,17 @@
 
 
 # Misc
+  - ## PCB Design Softwares
+    - ### Free/Open Source
+    - [Easy EDA ](https://easyeda.com/)
+    - [KiCAD ](https://www.kicad.org/)
+    - [EXpressPCB ](https://www.expresspcb.com/)
+    - [Ultiboard ](https://www.ni.com/en-za/shop/software/products/ultiboard.html)
+    - [Fritzing ](https://fritzing.org/)
+    - [Osmond PCB ](https://www.osmondpcb.com/)
+    - [Tiny CAD ](https://www.tinycad.net/) 
+    - [Tiny CAD - Web ](https://www.tinycad.net/Online/Home)
+    - [FreePCB ](http://www.freepcb.com/)
+    - [Datasheets - was FreePCB Web  ](https://www.datasheets.com/en)
+    - [DesignSpark PCB Software ](https://www.rs-online.com/designspark/pcb-software)
+    - [ <kbd> Easy EDA  </kbd> ](https://easyeda.com/) <kbd> Easy EDA  </kbd>
