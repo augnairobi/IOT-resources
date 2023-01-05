@@ -10,6 +10,7 @@
  - [arduino-learning-resources - Videos/Books/Docs](https://github.com/augnairobi/arduino-learning-resources)
  - [CircuitPython ](https://learn.adafruit.com/welcome-to-circuitpython)
  - [The Things Network -- Learn all about LoRaWAN and The Things Network! ](https://www.thethingsnetwork.org/docs/lorawan/)
+ - <kbd> More to be added </kbd>
 
 
  # Shops.
@@ -22,6 +23,7 @@
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Pixel Electric in Rift valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
+   - <kbd> More to be added </kbd>
    
    
   
@@ -32,13 +34,13 @@
   - [Rakwireless Store](https://store.rakwireless.com/)
   - [Adafruit Store](https://www.adafruit.com/)
   - [Digi-Key Electronics](https://www.digikey.com/)
-  - 
+  - <kbd> More to be added </kbd>
   
   
 # Certifications.
   - [Arduino Certification ](https://www.arduino.cc/education/certification)
   - [The Things Certification by TTI ](https://www.thethingsnetwork.org/achievements/)
-  - [ ]()
+  - <kbd> More to be added </kbd>
   
 
 
@@ -56,4 +58,4 @@
     - [FreePCB ](http://www.freepcb.com/)
     - [Datasheets - was FreePCB Web  ](https://www.datasheets.com/en)
     - [DesignSpark PCB Software ](https://www.rs-online.com/designspark/pcb-software)
-    - [ <kbd> Easy EDA  </kbd> ](https://easyeda.com/) <kbd> Easy EDA  </kbd>
+    - <kbd> More to be added </kbd>
