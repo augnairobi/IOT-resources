@@ -10,6 +10,9 @@
  - [arduino-learning-resources - Videos/Books/Docs](https://github.com/augnairobi/arduino-learning-resources)
  - [CircuitPython ](https://learn.adafruit.com/welcome-to-circuitpython)
  - [The Things Network -- Learn all about LoRaWAN and The Things Network! ](https://www.thethingsnetwork.org/docs/lorawan/)
+- ## Cloud 
+  - ### Azure Cloud
+   - [Azure sdk for c arduino ](https://github.com/Azure/azure-sdk-for-c-arduino)
  - <kbd> More to be added </kbd>
 
 
