@@ -46,7 +46,14 @@
   - [The Things Certification by TTI ](https://www.thethingsnetwork.org/achievements/)
   - <kbd> More to be added </kbd>
   
-
+# IOT TOOLS
+ - ## CLOUD
+   - [Azure - IoT Hub](https://azure.microsoft.com/en-au/products/iot-hub/ )
+   - [Amazon Web Services - IoT core]( https://aws.amazon.com/iot-core/ )
+   - [Datacake](https://datacake.co/)
+   - [Rakwireless](https://www.rakwireless.com/en-us/products/wisdm)
+   - [Balena cloud](https://www.balena.io/)
+   - <kbd> More to be added </kbd>
 
 # Misc
   - ## PCB Design Softwares
