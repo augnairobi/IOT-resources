@@ -53,7 +53,11 @@
    - [Datacake](https://datacake.co/)
    - [Rakwireless](https://www.rakwireless.com/en-us/products/wisdm)
    - [Balena cloud](https://www.balena.io/)
+
+ - ## Machine Learning for IoT
+   - [Edge Impulse](https://www.edgeimpulse.com/)
    - <kbd> More to be added </kbd>
+
 
 # Misc
   - ## PCB Design Softwares
