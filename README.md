@@ -12,6 +12,9 @@
  - [The Things Network -- Learn all about LoRaWAN and The Things Network! ](https://www.thethingsnetwork.org/docs/lorawan/)
  - [Nordic Developer Academy ](https://www.nordicsemi.com/Support/Nordic-Developer-Academy)
  - [ARM Developer program -- Access to Comprehensive Resources ](https://www.arm.com/resources/developer-program)
+ - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
+ - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)Free
+ - 
  
 - ## Cloud 
   - ### Azure Cloud
@@ -50,6 +53,7 @@
   
 # IOT TOOLS
  - ## CLOUD
+   -[ Arduino Cloud](https://cloud.arduino.cc/)
    - [Azure - IoT Hub](https://azure.microsoft.com/en-au/products/iot-hub/ )
    - [Amazon Web Services - IoT core]( https://aws.amazon.com/iot-core/ )
    - [Datacake](https://datacake.co/)
