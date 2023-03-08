@@ -56,6 +56,7 @@
    - [Rakwireless](https://www.rakwireless.com/en-us/products/wisdm)
    - [Balena cloud](https://www.balena.io/)
    - [Netdata Cloud ](https://www.netdata.cloud/)
+   - [ThingsBoard - Open-source IoT Platform](https://thingsboard.io/)
 
  - ## Machine Learning for IoT
    - [Edge Impulse](https://www.edgeimpulse.com/)
