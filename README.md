@@ -13,7 +13,7 @@
  - [Nordic Developer Academy ](https://www.nordicsemi.com/Support/Nordic-Developer-Academy)
  - [ARM Developer program -- Access to Comprehensive Resources ](https://www.arm.com/resources/developer-program)
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
- - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)Free
+ - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
  - 
  
 - ## Cloud 
@@ -30,6 +30,7 @@
    - [Arduino Solutions Kenya in Madaraka Shopping Center,Nairobi,Kenya](https://askelectronics.co.ke/)
    - [Arduino Kenya in Nairobi, Kenya](https://arduinokenya.co.ke/)
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
+   ## Outside Nairobi
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Pixel Electric in Rift valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
    - <kbd> More to be added </kbd>
@@ -49,6 +50,7 @@
 # Certifications.
   - [Arduino Certification ](https://www.arduino.cc/education/certification)
   - [The Things Certification by TTI ](https://www.thethingsnetwork.org/achievements/)
+  - [Embedded Systems Essentials with Arm Professional Certificate](https://www.arm.com/resources/education/online-courses/efficient-embedded-systems)
   - <kbd> More to be added </kbd>
   
 # IOT TOOLS
