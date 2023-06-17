@@ -15,8 +15,9 @@
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
 
-## programming languages.
- - [Pointers in C for Absolute Beginners – Full Course](https://www.youtube.com/watch?v=MIL2BK02X8A)
+## Programming languages.
+ - [Pointers in C for Absolute Beginners – Full Course - 2 hrs](https://youtu.be/MIL2BK02X8A)
+ - [C++ Programming Course - Beginner to Advanced - 31 hrs](https://youtu.be/8jLOx1hD3_o)
  
 - ## Cloud 
   - ### Azure Cloud
