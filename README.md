@@ -33,7 +33,7 @@
    - [Arduino Solutions Kenya in Madaraka Shopping Center,Nairobi,Kenya](https://askelectronics.co.ke/)
    - [Arduino Kenya in Nairobi, Kenya](https://arduinokenya.co.ke/)
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
-   ## Outside Nairobi
+   - ## Outside Nairobi
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Pixel Electric in Rift valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
    - <kbd> More to be added </kbd>
