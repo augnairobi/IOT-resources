@@ -19,7 +19,7 @@
  - [Arm Developer Hub](https://www.arm.com/developer-hub)
    
 ## Micro-controllers - Start Developing on Arm-Based Microcontrollers
--[Micro-controllers](https://www.arm.com/developer-hub/microcontrollers)
+ - [Micro-controllers](https://www.arm.com/developer-hub/microcontrollers)
 
 ## Programming languages.
  - [Pointers in C for Absolute Beginners – Full Course - 2 hrs](https://youtu.be/MIL2BK02X8A)
