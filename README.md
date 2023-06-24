@@ -15,27 +15,33 @@
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
 
+# ARM Developer Resources || Learn. Watch. Engage
+ - [Arm Developer Hub](https://www.arm.com/developer-hub)
+   
+## Micro-controllers - Start Developing on Arm-Based Microcontrollers
+-[Micro-controllers](https://www.arm.com/developer-hub/microcontrollers)
+
 ## Programming languages.
  - [Pointers in C for Absolute Beginners – Full Course - 2 hrs](https://youtu.be/MIL2BK02X8A)
  - [C++ Programming Course - Beginner to Advanced - 31 hrs](https://youtu.be/8jLOx1hD3_o)
  
 - ## Cloud 
   - ### Azure Cloud
-   - [Azure sdk for c arduino ](https://github.com/Azure/azure-sdk-for-c-arduino)
+   - [Azure SDK for c arduino ](https://github.com/Azure/azure-sdk-for-c-arduino)
  - <kbd> More to be added </kbd>
 
 
  # Shops.
   - ## Local
    - [ KTechnics in CBD,Nairobi,Kenya](https://www.ktechnics.com/)
-   - [Ivyliam-gadgets in Nairobi,Kenya - Raspberry reseller](https://shop.ivyliam.com/)
+   - [Ivyliam-gadgets in Nairobi, Kenya - Raspberry reseller](https://shop.ivyliam.com/)
    - [Rubik's Tech in CBD, Nairobi, Kenya ](https://www.rubikstech.co.ke/)
-   - [Arduino Solutions Kenya in Madaraka Shopping Center,Nairobi,Kenya](https://askelectronics.co.ke/)
+   - [Arduino Solutions Kenya in Madaraka Shopping Center, Nairobi, Kenya](https://askelectronics.co.ke/)
    - [Arduino Kenya in Nairobi, Kenya](https://arduinokenya.co.ke/)
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
    - ## Outside Nairobi
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
-   - [Pixel Electric in Rift valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
+   - [Pixel Electric in Rift Valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
    - <kbd> More to be added </kbd>
    
    
