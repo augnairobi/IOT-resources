@@ -52,7 +52,8 @@
   - [Seeed Studio](https://www.seeedstudio.com/)
   - [Rakwireless Store](https://store.rakwireless.com/)
   - [Adafruit Store](https://www.adafruit.com/)
-  - [Digi-Key Electronics](https://www.digikey.com/)
+  - [Digi-Key Electronics](https://www.digikey.com/) 
+  - [Okdo ARDUINO KIT](https://www.okdo.com/c/arduino-shop/arduino/)
   - <kbd> More to be added </kbd>
   
   
