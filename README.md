@@ -54,6 +54,7 @@
   - [Adafruit Store](https://www.adafruit.com/)
   - [Digi-Key Electronics](https://www.digikey.com/) 
   - [Okdo ARDUINO KIT](https://www.okdo.com/c/arduino-shop/arduino/)
+  - [Okdo Raspberry Pi](https://www.okdo.com/c/pi-shop/)
   - <kbd> More to be added </kbd>
   
   
