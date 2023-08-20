@@ -14,6 +14,8 @@
  - [ARM Developer program -- Access to Comprehensive Resources ](https://www.arm.com/resources/developer-program)
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
+ - [Embedded Engineering Roadmap ](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+ - 
 
 # ARM Developer Resources || Learn. Watch. Engage
  - [Arm Developer Hub](https://www.arm.com/developer-hub)
