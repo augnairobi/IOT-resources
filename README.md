@@ -15,7 +15,6 @@
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
  - [Embedded Engineering Roadmap ](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
- - 
 
 # ARM Developer Resources || Learn. Watch. Engage
  - [Arm Developer Hub](https://www.arm.com/developer-hub)
@@ -41,6 +40,7 @@
    - [Arduino Solutions Kenya in Madaraka Shopping Center, Nairobi, Kenya](https://askelectronics.co.ke/)
    - [Arduino Kenya in Nairobi, Kenya](https://arduinokenya.co.ke/)
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
+   - [Novatech Engineerics, in Magic Trade Center, Mfangano Street](https://novatech.co.ke/)
    - ## Outside Nairobi
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Pixel Electric in Rift Valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
