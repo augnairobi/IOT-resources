@@ -98,3 +98,8 @@
     - [Datasheets - was FreePCB Web  ](https://www.datasheets.com/en)
     - [DesignSpark PCB Software ](https://www.rs-online.com/designspark/pcb-software)
     - <kbd> More to be added </kbd>
+
+  - ## Animators for arduino
+     - [Arduino animator](https://animator.wokwi.com/)
+     - <kbd> more to be added </kbd>
+     
