@@ -99,7 +99,17 @@
     - [DesignSpark PCB Software ](https://www.rs-online.com/designspark/pcb-software)
     - <kbd> More to be added </kbd>
 
-  - ## Animators for arduino
+  - ## PCB Prototype and fabrication.
+    - # Local
+      - [ Gearbox Europlacer Kenya](https://www.gearbox-europlacer.com/)
+      -  <kbd>More to be added </kbd>
+      
+    - # Global
+      - [ PCBWay ](https://www.pcbway.com/)
+      - [JLCPCB](https://jlcpcb.com/)
+      -  <kbd> More tobe added </kbd>
+
+  - ## Animators for Arduino
      - [Arduino animator](https://animator.wokwi.com/)
      - <kbd> more to be added </kbd>
      
