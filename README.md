@@ -46,7 +46,12 @@
    - [Pixel Electric in Rift Valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
    - <kbd> More to be added </kbd>
    
-   
+ - ## Africa
+  - [Oku Electronics in Tema, Ghana](https://www.okuelectronics.com/)
+  - [Geek Electronics in Accra, Ghana](https://geekelectronics.io/)
+  - [DaakyeTech in Adenta, Ghana](https://www.daakyetech.com/)
+  - [Invent Electronics in Kumasi, Ghana](https://www.inventelectronics.com/)
+  - <kbd> More to be added </kbd>
   
  - ## Global
   - [ Arduino store ](https://store.arduino.cc/)
