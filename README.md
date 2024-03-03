@@ -112,9 +112,13 @@
     - # Global
       - [ PCBWay ](https://www.pcbway.com/)
       - [JLCPCB](https://jlcpcb.com/)
-      -  <kbd> More tobe added </kbd>
+      -  <kbd> More to be added </kbd>
 
   - ## Animators for Arduino
      - [Arduino animator](https://animator.wokwi.com/)
      - <kbd> more to be added </kbd>
+     
+  - ## IOT REPOS- Resources
+  - ### If you can't find it on this repo ⬆⬆⬆ check this one below ⬇⬇⬇, It has the most resources.
+     - [More resources on IOT, frameworks, OS, etc](https://github.com/phodal/awesome-iot?tab=readme-ov-file) 
      
