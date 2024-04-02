@@ -42,6 +42,7 @@
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
    - [Novatech Engineerics, in Magic Trade Center, Mfangano Street](https://novatech.co.ke/)
    - ## Outside Nairobi
+   - [BluePack Ventures](https://bluepackventures.com/) 
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Pixel Electric in Rift Valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
    - <kbd> More to be added </kbd>
