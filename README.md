@@ -15,7 +15,7 @@
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
  - [Embedded Engineering Roadmap ](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
- - [Microsoft IoT for Begineers](https://microsoft.github.io/IoT-For-Beginners/#/) Free
+ - [Microsoft IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) Free
 
 # ARM Developer Resources || Learn. Watch. Engage
  - [Arm Developer Hub](https://www.arm.com/developer-hub)
@@ -92,6 +92,7 @@
 
  - ## Machine Learning for IoT
    - [Edge Impulse](https://www.edgeimpulse.com/)
+   - [TinyML](https://www.tinyml.org/)
    - <kbd> More to be added </kbd>
 
 
@@ -123,6 +124,7 @@
 
   - ## Animators for Arduino
      - [Arduino animator](https://animator.wokwi.com/)
+     - [TinkerCAD](https://www.tinkercad.com/circuits)
      - <kbd> more to be added </kbd>
      
   - ## IOT REPOS- Resources
