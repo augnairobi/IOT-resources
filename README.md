@@ -15,6 +15,7 @@
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
  - [Embedded Engineering Roadmap ](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+ - [Microsoft IoT for Begineers](https://microsoft.github.io/IoT-For-Beginners/#/) Free
 
 # ARM Developer Resources || Learn. Watch. Engage
  - [Arm Developer Hub](https://www.arm.com/developer-hub)
@@ -25,10 +26,15 @@
 ## Programming languages.
  - [Pointers in C for Absolute Beginners – Full Course - 2 hrs](https://youtu.be/MIL2BK02X8A)
  - [C++ Programming Course - Beginner to Advanced - 31 hrs](https://youtu.be/8jLOx1hD3_o)
+ - [Rust for Embedded Devices](https://www.rust-lang.org/what/embedded)
  
-- ## Cloud 
+- ## Cloud
+  - ### Arduino Cloud
+   - [Arduino Cloud ](https://docs.arduino.cc/arduino-cloud/guides/overview/)
   - ### Azure Cloud
    - [Azure SDK for c arduino ](https://github.com/Azure/azure-sdk-for-c-arduino)
+  - ### AWS IoT Core
+   - [AWS IoT Core for Arduino Framework ](https://docs.arduino.cc/tutorials/opta/getting-started-with-aws-iot-core/)
  - <kbd> More to be added </kbd>
 
 
