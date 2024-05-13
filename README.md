@@ -15,6 +15,7 @@
  - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture) Free
  - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture) Free
  - [Embedded Engineering Roadmap ](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+ - [Microsoft IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) Free
 
 # ARM Developer Resources || Learn. Watch. Engage
  - [Arm Developer Hub](https://www.arm.com/developer-hub)
@@ -25,10 +26,15 @@
 ## Programming languages.
  - [Pointers in C for Absolute Beginners – Full Course - 2 hrs](https://youtu.be/MIL2BK02X8A)
  - [C++ Programming Course - Beginner to Advanced - 31 hrs](https://youtu.be/8jLOx1hD3_o)
+ - [Rust for Embedded Devices](https://www.rust-lang.org/what/embedded)
  
-- ## Cloud 
+- ## Cloud
+  - ### Arduino Cloud
+   - [Arduino Cloud ](https://docs.arduino.cc/arduino-cloud/guides/overview/)
   - ### Azure Cloud
    - [Azure SDK for c arduino ](https://github.com/Azure/azure-sdk-for-c-arduino)
+  - ### AWS IoT Core
+   - [AWS IoT Core for Arduino Framework ](https://docs.arduino.cc/tutorials/opta/getting-started-with-aws-iot-core/)
  - <kbd> More to be added </kbd>
 
 
@@ -41,6 +47,7 @@
    - [Arduino Kenya in Nairobi, Kenya](https://arduinokenya.co.ke/)
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
    - [Novatech Engineerics, in Magic Trade Center, Mfangano Street](https://novatech.co.ke/)
+   - [Sagana Electronics](https://www.google.com/maps/dir//AfriCastle,+Ground+Floor+River+Rd,+Starehe/@-1.2843287,36.747408,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x182f112949b72185:0xfc54c19689a70c67!2m2!1d36.82981!2d-1.28433?entry=ttu)
    - ## Outside Nairobi
    - [BluePack Ventures](https://bluepackventures.com/) 
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
@@ -86,6 +93,7 @@
 
  - ## Machine Learning for IoT
    - [Edge Impulse](https://www.edgeimpulse.com/)
+   - [TinyML](https://www.tinyml.org/)
    - <kbd> More to be added </kbd>
 
 
@@ -117,6 +125,7 @@
 
   - ## Animators for Arduino
      - [Arduino animator](https://animator.wokwi.com/)
+     - [TinkerCAD](https://www.tinkercad.com/circuits)
      - <kbd> more to be added </kbd>
      
   - ## IOT REPOS- Resources
