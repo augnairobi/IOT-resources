@@ -47,11 +47,11 @@
    - [Arduino Kenya in Nairobi, Kenya](https://arduinokenya.co.ke/)
    - [Loci Engineering in Ongata Rongai,Kunjam Arcade Building,Nairobi,Kenya](https://lociengineering.co.ke/)
    - [Novatech Engineerics, in Magic Trade Center, Mfangano Street](https://novatech.co.ke/)
+   - [Sagana Electronics](https://www.google.com/maps/dir//AfriCastle,+Ground+Floor+River+Rd,+Starehe/@-1.2843287,36.747408,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x182f112949b72185:0xfc54c19689a70c67!2m2!1d36.82981!2d-1.28433?entry=ttu)
    - ## Outside Nairobi
    - [BluePack Ventures](https://bluepackventures.com/) 
    - [Nerokas in Thika,Kenya](https://store.nerokas.co.ke/)
    - [Pixel Electric in Rift Valley, Nakuru County, Kenya](https://www.pixelelectric.com/)
-   - [Sagana Electronics](https://www.google.com/maps/dir//AfriCastle,+Ground+Floor+River+Rd,+Starehe/@-1.2843287,36.747408,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x182f112949b72185:0xfc54c19689a70c67!2m2!1d36.82981!2d-1.28433?entry=ttu)
    - <kbd> More to be added </kbd>
    
  - ## Africa
